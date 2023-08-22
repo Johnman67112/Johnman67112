@@ -12,13 +12,6 @@ Hi, my name is João Campos, i'm a brazilian developer from São Paulo 🌆
 - 😄 Pronouns: he/him ...
 - ⚡ Fun fact: my favorite pokémon is mega charizard x ...
 
-### Statistics
-<div>
-<a href="https://github.com/johnman67112">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnman67112&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnman67112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ### Contact me:
 
 <div>
